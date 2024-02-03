@@ -1,0 +1,88 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\blinky.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\clyde.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\inky.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\nap.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\pacman.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\pinky.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\plavo.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\novcic.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\nov.png
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.IzbornikForma.resources
+C:\Users\Luka\Desktop\FAKULTET\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.POREDAK.resources
+D:\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+D:\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+D:\Projekt\OTTER\bin\Debug\sprites\nov.png
+D:\Projekt\OTTER\bin\Debug\sprites\novcic.png
+D:\Projekt\OTTER\bin\Debug\sprites\plavo.png
+D:\Projekt\OTTER\bin\Debug\sprites\blinky.png
+D:\Projekt\OTTER\bin\Debug\sprites\clyde.png
+D:\Projekt\OTTER\bin\Debug\sprites\elf.png
+D:\Projekt\OTTER\bin\Debug\sprites\inky.png
+D:\Projekt\OTTER\bin\Debug\sprites\nap.png
+D:\Projekt\OTTER\bin\Debug\sprites\pacman.png
+D:\Projekt\OTTER\bin\Debug\sprites\pinky.png
+D:\Projekt\OTTER\bin\Debug\OTTER.exe.config
+D:\Projekt\OTTER\bin\Debug\OTTER.xml
+D:\Projekt\OTTER\bin\Debug\OTTER.exe
+D:\Projekt\OTTER\bin\Debug\OTTER.pdb
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.IzbornikForma.resources
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.POREDAK.resources
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+D:\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\nov.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\novcic.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\plavo.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\blinky.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\clyde.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\inky.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\nap.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\pacman.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\sprites\pinky.png
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.IzbornikForma.resources
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.POREDAK.resources
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Luka\Desktop\FAKULTET\PREDDIPLOMSKI\4.SEMESTAR\Objektno-orijentirano programiranje\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
